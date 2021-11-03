@@ -8,4 +8,5 @@ using namespace std;
 int main(){
     printf("Hello World");
     cout << "\nHola Mundo" << endl;
+    printf("Salut Monde");
 }
